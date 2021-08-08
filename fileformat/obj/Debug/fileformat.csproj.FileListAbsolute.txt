@@ -1,0 +1,12 @@
+/Users/denizhankalkan/Projects/fileformat/fileformat/bin/Debug/fileformat.exe.config
+/Users/denizhankalkan/Projects/fileformat/fileformat/bin/Debug/fileformat.exe
+/Users/denizhankalkan/Projects/fileformat/fileformat/bin/Debug/fileformat.pdb
+/Users/denizhankalkan/Projects/fileformat/fileformat/bin/Debug/BouncyCastle.Crypto.dll
+/Users/denizhankalkan/Projects/fileformat/fileformat/bin/Debug/itextsharp.dll
+/Users/denizhankalkan/Projects/fileformat/fileformat/bin/Debug/itextsharp.xml
+/Users/denizhankalkan/Projects/fileformat/fileformat/obj/Debug/fileformat.csprojAssemblyReference.cache
+/Users/denizhankalkan/Projects/fileformat/fileformat/obj/Debug/fileformat.exe.config
+/Users/denizhankalkan/Projects/fileformat/fileformat/obj/Debug/fileformat.csproj.CoreCompileInputs.cache
+/Users/denizhankalkan/Projects/fileformat/fileformat/obj/Debug/fileformat.csproj.CopyComplete
+/Users/denizhankalkan/Projects/fileformat/fileformat/obj/Debug/fileformat.exe
+/Users/denizhankalkan/Projects/fileformat/fileformat/obj/Debug/fileformat.pdb
